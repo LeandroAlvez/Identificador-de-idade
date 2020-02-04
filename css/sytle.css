@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(137, 189, 238) !important;
+    font-family: 'Josefin Sans';
+}
+ header {
+     color: #FFFFFF;
+     text-align: center;
+     margin-top: 50px;
+ }
+ section {
+     background-color: #FFFFFF;
+     width: 700px;
+     height: 500px;
+     margin: auto;
+     border-radius: 15px;
+     font-family: Arial, Helvetica, sans-serif;
+     padding: 15px;
+
+ }
+ #res {
+     text-align: center;
+ }
+ #foto {
+     margin-top: 30px;
+     width: 254px;
+ }
+ footer {
+     color: #FFFFFF;
+     text-align: center;
+ }
